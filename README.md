@@ -1,3 +1,11 @@
 # random
-<p>Jessica tried.</p>
-<p>Hajarella is here. </p>
+[] to do list 
+[] weather 
+[] calender
+[] prioritizing tasks
+[] assistant 
+[] voice 
+[] notifications
+[] timelapse
+[] music
+
