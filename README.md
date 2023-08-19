@@ -9,3 +9,7 @@
 <p>[] timelapse</p>
 <p>[] music</p>
 
+
+<p>Hajar : To-do list & regarder API calendar </p>
+
+<p>Jess : Chrono & regarder API music </p>
